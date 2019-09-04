@@ -1,5 +1,10 @@
 # Project-1: Hayley's Cosmic Songs
 
+* Team Leader: Hayley Jellison [@hayleyjellison](https://github.com/hayleyjellison)
+* Git Master: Chris Nguyen [@c-l-nguyen](https://github.com/c-l-nguyen)
+* Data Analyst: Josefina Blanchard [@josefina-blanchard](https://github.com/josefina-blanchard)
+* Data Analyst/Slide Master: Amy Dach [@amydach](https://github.com/amydach)
+
 Our team plans to track music data from the Billboard Hot 100 songs (singles) list from 1958-2017. We aim to uncover what genre of songs were most popular by year and how they have changed as well as how popularity of songs with various qualities, such as explicit content or "danceibility" scores based on analysis from Spotify, have changed over time. 
 
 A few questions we will consider in our analysis:
