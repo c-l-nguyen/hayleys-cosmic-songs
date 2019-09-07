@@ -22,3 +22,6 @@ A few questions we will consider in our analysis:
 
 ## APIs Used
 * [Spotify Deveoper Web API](https://developer.spotify.com/documentation/web-api/reference/)
+
+## API Wrappers
+* [Spotipy](https://github.com/plamere/spotipy) - a thin client library for the Spotify Web API
