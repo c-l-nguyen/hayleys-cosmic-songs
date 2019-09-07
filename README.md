@@ -21,7 +21,7 @@ A few questions we will consider in our analysis:
 * [Billboard Hot-100 Songs 2000-2018 w/ Spotify Data + Lyrics](https://data.world/typhon/billboard-hot-100-songs-2000-2018-w-spotify-data-lyrics) from data.world
 
 ## APIs Used
-* [Spotify Deveoper Web API](https://developer.spotify.com/documentation/web-api/reference/)
+* [Spotify Developer Web API](https://developer.spotify.com/documentation/web-api/reference/)
 
 ## API Wrappers
 * [Spotipy](https://github.com/plamere/spotipy) - a thin client library for the Spotify Web API
