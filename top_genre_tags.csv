@@ -1,51 +1,51 @@
-name,reach,streamable,taggings,url,wiki
-rock,394676,1,3965297,https://www.last.fm/tag/rock,{}
-electronic,253057,1,2354576,https://www.last.fm/tag/electronic,{}
-seen live,81678,1,2137591,https://www.last.fm/tag/seen+live,{}
-alternative,261148,1,2092825,https://www.last.fm/tag/alternative,{}
-indie,252609,1,2012769,https://www.last.fm/tag/indie,{}
-pop,224703,1,1962214,https://www.last.fm/tag/pop,{}
-female vocalists,167679,1,1598269,https://www.last.fm/tag/female+vocalists,{}
-metal,155198,1,1255620,https://www.last.fm/tag/metal,{}
-alternative rock,166462,1,1161819,https://www.last.fm/tag/alternative+rock,{}
-jazz,146163,1,1142722,https://www.last.fm/tag/jazz,{}
-classic rock,136546,1,1138177,https://www.last.fm/tag/classic+rock,{}
-ambient,143551,1,1045403,https://www.last.fm/tag/ambient,{}
-experimental,138535,1,1042744,https://www.last.fm/tag/experimental,{}
-folk,147002,1,910624,https://www.last.fm/tag/folk,{}
-punk,141564,1,874819,https://www.last.fm/tag/punk,{}
-indie rock,133004,1,870470,https://www.last.fm/tag/indie+rock,{}
-hard rock,113696,1,853912,https://www.last.fm/tag/hard+rock,{}
-Hip-Hop,126141,1,852075,https://www.last.fm/tag/Hip-Hop,{}
-instrumental,122716,1,835158,https://www.last.fm/tag/instrumental,{}
-singer-songwriter,107870,1,827735,https://www.last.fm/tag/singer-songwriter,{}
-black metal,61301,1,824542,https://www.last.fm/tag/black+metal,{}
-dance,131709,1,794952,https://www.last.fm/tag/dance,{}
-80s,99773,1,773325,https://www.last.fm/tag/80s,{}
-Progressive rock,95084,1,719019,https://www.last.fm/tag/Progressive+rock,{}
-death metal,70732,1,705570,https://www.last.fm/tag/death+metal,{}
-heavy metal,89345,1,694635,https://www.last.fm/tag/heavy+metal,{}
-hardcore,96715,1,684967,https://www.last.fm/tag/hardcore,{}
-british,92517,1,681858,https://www.last.fm/tag/british,{}
-soul,99619,1,665750,https://www.last.fm/tag/soul,{}
-chillout,102971,1,645501,https://www.last.fm/tag/chillout,{}
-electronica,101265,1,629230,https://www.last.fm/tag/electronica,{}
-Classical,73451,1,558662,https://www.last.fm/tag/Classical,{}
-industrial,82801,1,552034,https://www.last.fm/tag/industrial,{}
-Soundtrack,83438,1,551652,https://www.last.fm/tag/Soundtrack,{}
-rap,102167,1,551160,https://www.last.fm/tag/rap,{}
-blues,94985,1,541952,https://www.last.fm/tag/blues,{}
-punk rock,96732,1,540845,https://www.last.fm/tag/punk+rock,{}
-thrash metal,61814,1,487177,https://www.last.fm/tag/thrash+metal,{}
-90s,56408,1,476857,https://www.last.fm/tag/90s,{}
-acoustic,109653,1,472872,https://www.last.fm/tag/acoustic,{}
-metalcore,66307,1,469471,https://www.last.fm/tag/metalcore,{}
-psychedelic,76989,1,468150,https://www.last.fm/tag/psychedelic,{}
-japanese,48026,1,454148,https://www.last.fm/tag/japanese,{}
-post-rock,64332,1,437452,https://www.last.fm/tag/post-rock,{}
-german,58823,1,429441,https://www.last.fm/tag/german,{}
-Progressive metal,61581,1,428979,https://www.last.fm/tag/Progressive+metal,{}
-funk,81808,1,419790,https://www.last.fm/tag/funk,{}
-hip hop,75864,1,419369,https://www.last.fm/tag/hip+hop,{}
-new wave,63262,1,414370,https://www.last.fm/tag/new+wave,{}
-trance,64044,1,410368,https://www.last.fm/tag/trance,{}
+name,url,reach,taggings,streamable,wiki
+rock,https://www.last.fm/tag/rock,394682,3965333,1,{}
+electronic,https://www.last.fm/tag/electronic,253060,2354630,1,{}
+seen live,https://www.last.fm/tag/seen+live,81678,2137632,1,{}
+alternative,https://www.last.fm/tag/alternative,261150,2092852,1,{}
+indie,https://www.last.fm/tag/indie,252609,2012834,1,{}
+pop,https://www.last.fm/tag/pop,224708,1962266,1,{}
+female vocalists,https://www.last.fm/tag/female+vocalists,167679,1598297,1,{}
+metal,https://www.last.fm/tag/metal,155199,1255720,1,{}
+alternative rock,https://www.last.fm/tag/alternative+rock,166464,1161841,1,{}
+jazz,https://www.last.fm/tag/jazz,146165,1142743,1,{}
+classic rock,https://www.last.fm/tag/classic+rock,136546,1138182,1,{}
+ambient,https://www.last.fm/tag/ambient,143553,1045438,1,{}
+experimental,https://www.last.fm/tag/experimental,138540,1042795,1,{}
+folk,https://www.last.fm/tag/folk,147004,910649,1,{}
+punk,https://www.last.fm/tag/punk,141564,874850,1,{}
+indie rock,https://www.last.fm/tag/indie+rock,133005,870496,1,{}
+hard rock,https://www.last.fm/tag/hard+rock,113696,853926,1,{}
+Hip-Hop,https://www.last.fm/tag/Hip-Hop,126143,852106,1,{}
+instrumental,https://www.last.fm/tag/instrumental,122716,835174,1,{}
+singer-songwriter,https://www.last.fm/tag/singer-songwriter,107871,827740,1,{}
+black metal,https://www.last.fm/tag/black+metal,61301,824598,1,{}
+dance,https://www.last.fm/tag/dance,131710,794968,1,{}
+80s,https://www.last.fm/tag/80s,99773,773330,1,{}
+Progressive rock,https://www.last.fm/tag/Progressive+rock,95085,719047,1,{}
+death metal,https://www.last.fm/tag/death+metal,70734,705614,1,{}
+heavy metal,https://www.last.fm/tag/heavy+metal,89345,694664,1,{}
+hardcore,https://www.last.fm/tag/hardcore,96715,684993,1,{}
+british,https://www.last.fm/tag/british,92518,681873,1,{}
+soul,https://www.last.fm/tag/soul,99621,665760,1,{}
+chillout,https://www.last.fm/tag/chillout,102971,645501,1,{}
+electronica,https://www.last.fm/tag/electronica,101267,629234,1,{}
+Classical,https://www.last.fm/tag/Classical,73452,558671,1,{}
+industrial,https://www.last.fm/tag/industrial,82802,552055,1,{}
+Soundtrack,https://www.last.fm/tag/Soundtrack,83439,551666,1,{}
+rap,https://www.last.fm/tag/rap,102170,551195,1,{}
+blues,https://www.last.fm/tag/blues,94985,541956,1,{}
+punk rock,https://www.last.fm/tag/punk+rock,96733,540871,1,{}
+thrash metal,https://www.last.fm/tag/thrash+metal,61814,487208,1,{}
+90s,https://www.last.fm/tag/90s,56409,476880,1,{}
+acoustic,https://www.last.fm/tag/acoustic,109653,472878,1,{}
+metalcore,https://www.last.fm/tag/metalcore,66307,469511,1,{}
+psychedelic,https://www.last.fm/tag/psychedelic,76989,468168,1,{}
+japanese,https://www.last.fm/tag/japanese,48028,454160,1,{}
+post-rock,https://www.last.fm/tag/post-rock,64332,437463,1,{}
+german,https://www.last.fm/tag/german,58823,429460,1,{}
+Progressive metal,https://www.last.fm/tag/Progressive+metal,61582,429010,1,{}
+funk,https://www.last.fm/tag/funk,81809,419798,1,{}
+hip hop,https://www.last.fm/tag/hip+hop,75864,419383,1,{}
+new wave,https://www.last.fm/tag/new+wave,63263,414379,1,{}
+trance,https://www.last.fm/tag/trance,64045,410453,1,{}
