@@ -3,9 +3,9 @@
 * Team Leader: Hayley Jellison [@hayleyjellison](https://github.com/hayleyjellison)
 * Git Master: Chris Nguyen [@c-l-nguyen](https://github.com/c-l-nguyen)
 * Data Analyst: Josefina Blanchard [@josefina-blanchard](https://github.com/josefina-blanchard)
-* Data Analyst: Amy Dach [@amydach](https://github.com/amydach)
+* Data Analyst/Powerpoint Master: Amy Dach [@amydach](https://github.com/amydach)
 
-Our team plans to track music data from the Billboard Hot 100 songs (singles) list from 1958-2017. We aim to uncover what genre of songs were most popular by decade and how they have changed as well as how popularity of songs with various qualities, such as explicit content or "danceability" scores based on analysis from Spotify, have changed over time. We also do an in-depth analysis of song qualities using data collected from the Spotify API from 2000-2017.
+Our team plans to track music data from the Billboard Hot 100 songs (singles) list from 1958-2017. We aim to uncover what genre of songs were most popular by decade and how they have changed as well as how popularity of songs with various qualities, such as acousticness or "danceability" scores based on analysis from Spotify, have changed over time. We also do an in-depth analysis of song qualities using data collected from the Spotify API from 2000-2017.
 
 A few questions we will consider in our analysis:
 * What genres were the most popular in the Billboard Hot 100 List? How has that changed over the years? Decades?
@@ -25,4 +25,3 @@ A few questions we will consider in our analysis:
 
 ## API Wrappers
 * [Spotipy](https://github.com/plamere/spotipy) - a thin client library for the Spotify Web API
-
